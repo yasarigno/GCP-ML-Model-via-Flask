@@ -4,7 +4,9 @@
 
 In this project, an ML-model is deployed on GCP using Flask. This project is UNDER CONSTRUCTION.
 
----
+<p align="center">
+<img align="center" src="Files\CD.png" style="width: 700px" />
+</p>
 
 Here is the roadmap to build a continuous delivery of an application through Google Cloud Platform.
 
