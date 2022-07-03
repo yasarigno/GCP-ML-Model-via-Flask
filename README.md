@@ -1,4 +1,4 @@
-# GCP-ML-Model-via-Flask
+# ML model deployed on GCP via Flask
 
 [![Python application test with Github Actions](https://github.com/yasarigno/GCP-ML-Model-via-Flask/actions/workflows/gcp.yml/badge.svg)](https://github.com/yasarigno/GCP-ML-Model-via-Flask/actions/workflows/gcp.yml)
 
