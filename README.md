@@ -2,7 +2,7 @@
 
 [![Python application test with Github Actions](https://github.com/yasarigno/GCP-ML-Model-via-Flask/actions/workflows/gcp.yml/badge.svg)](https://github.com/yasarigno/GCP-ML-Model-via-Flask/actions/workflows/gcp.yml)
 
-In this project, an ML-model is deployed on GCP using Flask. This project is UNDER CONSTRUCTION.
+In this project, an ML-model is deployed on GCP using Flask. The Machine Learning step of this project is **coming soon**.
 
 <p align="center">
 <img align="center" src="Files\CD.png" style="width: 700px" />
