@@ -12,7 +12,7 @@ Here is the roadmap to build a continuous delivery of an application through Goo
 
 ### Step-by-step roadmap
 
-1. The files are created on GitHub. I first create a <ins>project</ins> on GCP called **Continuous-Delivery-ML-model**. 
+1. The files are created on GitHub. I first create a project on GCP called <ins>**Continuous-Delivery-ML-model**</ins>. 
 
 2. Let us make a new directory **MLdelivery**
 
