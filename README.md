@@ -79,7 +79,6 @@ We now make some settings. Enable **App Engine Admin API** and **Service Account
 
 9. Any event on the code on the GitHub repo will directly give the result on the web app. Make a change and see it.
 
-
-
+**UPDATE : ** The web application is no more working since I have run out of my free GCP account. 
 
 
